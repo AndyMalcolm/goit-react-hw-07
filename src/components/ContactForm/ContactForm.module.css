@@ -21,3 +21,9 @@ input {
   background-color: transparent;
   color: salmon;
 }
+input:hover{
+  color: rgb(248, 93, 76);
+}
+input:focus{
+  color: rgb(248, 93, 76);
+}
